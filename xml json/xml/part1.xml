@@ -1,0 +1,26 @@
+<libreria>
+<libro id="L001" categoria="infantil" idioma="español">
+<titulo>El Principito</titulo>
+<autor>Antoine de Saint-Exupéry</autor>
+<precio moneda="EUR">15.99</precio>
+<genero>Ficción</genero>
+<disponibilidad>En stock</disponibilidad>
+<imagen>https://m.media-amazon.com/images/I/71AVK5VIAzL._AC_UF1000,1000_QL80_.jpg</imagen>
+</libro>
+<libro id="L002" categoria="novela" idioma="español">
+<titulo>Cien Años de Soledad</titulo>
+<autor>Gabriel García Márquez</autor>
+<precio moneda="USD">22.50</precio>
+<genero>Novela</genero>
+<disponibilidad>Agotado</disponibilidad>
+<imagen>https://m.media-amazon.com/images/I/91TvVQS7loL.jpg</imagen>
+</libro>
+<libro id="L003" categoria="clásico" idioma="español">
+<titulo>Don Quijote de la Mancha</titulo>
+<autor>Miguel de Cervantes</autor>
+<precio moneda="EUR">18.75</precio>
+<genero>Clásico</genero>
+<disponibilidad>En stock</disponibilidad>
+<imagen>https://m.media-amazon.com/images/I/91CIwR3QU1L._UF1000,1000_QL80_.jpg</imagen>
+</libro>
+</libreria>
