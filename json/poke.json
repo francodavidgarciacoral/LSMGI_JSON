@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pikachu",
+    "tipos": ["eléctrico"],
+    "peso": "6.0 kg",
+    "altura": "0.4 m",
+    "estadisticas": {
+      "velocidad": 90,
+      "fuerza": 55,
+      "precision": 90,
+      "resistencia": 40
+    },
+    "movimientos": [
+      {
+        "nombre": "Impactrueno",
+        "descripcion": "Un ataque eléctrico directo.",
+        "potencia": 60,
+        "contacto": true
+      },
+      {
+        "nombre": "Cola de Hierro",
+        "descripcion": "Un ataque físico con la cola.",
+        "potencia": 50,
+        "contacto": true
+      }
+    ],
+    "imagen": "https://i.pinimg.com/564x/f8/04/6d/f8046dca3a28fc860e3978618fdf76d6.jpg",
+    "evoluciones": [
+      {
+        "pokemon": "Raichu",
+        "nivel": 16
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Squirtle",
+    "tipos": ["agua"],
+    "peso": "9.0 kg",
+    "altura": "0.5 m",
+    "estadisticas": {
+      "velocidad": 43,
+      "fuerza": 48,
+      "precision": 65,
+      "resistencia": 50
+    },
+    "movimientos": [
+      {
+        "nombre": "Pistola Agua",
+        "descripcion": "Dispara agua a presión contra el enemigo.",
+        "potencia": 40,
+        "contacto": false
+      },
+      {
+        "nombre": "Caparazón Refugio",
+        "descripcion": "El Pokémon se protege y aumenta su defensa.",
+        "potencia": 0,
+        "contacto": false
+      }
+    ],
+    "imagen": "https://preview.redd.it/oj0d97dt11461.jpg?auto=webp&s=e1ec996f8a5c9d107945308734338234ad062ecf",
+    "evoluciones": [
+      {
+        "pokemon": "Wartortle",
+        "nivel": 16
+      }
+    ]
+  }
+]
